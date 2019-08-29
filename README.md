@@ -1,5 +1,5 @@
 # Rainbow Loader
 
-### usage
+# Codepen
 
-`<div class="rainbow-loader"></div>`
+[https://codepen.io/oygen/pen/WNeOXXN](https://codepen.io/oygen/pen/WNeOXXN)
