@@ -1,6 +1,6 @@
 {
   "name": "rainbow-loader",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "Rainbow loader css only",
   "main": "css/rainbow-loader.css",
   "scripts": {
