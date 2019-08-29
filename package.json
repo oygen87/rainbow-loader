@@ -1,0 +1,22 @@
+{
+  "name": "rainbow-loader",
+  "version": "1.0.2",
+  "description": "Rainbow loader css only",
+  "main": "css/rainbow-loader.css",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "rainbow",
+    "loader",
+    "spinner",
+    "css",
+    "web"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/oygen87/rainbow-loader.git"
+  },
+  "author": "Eugen Cazacu",
+  "license": "MIT"
+}

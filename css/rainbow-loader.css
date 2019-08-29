@@ -1,0 +1,34 @@
+.rainbow-loader {
+  height: 0.2rem;
+  background: linear-gradient(
+    90deg,
+    orange,
+    yellow,
+    lime,
+    cyan,
+    violet,
+    magenta,
+    red,
+    orange,
+    yellow,
+    lime,
+    cyan,
+    violet,
+    magenta,
+    red,
+    orange
+  );
+  background-size: 200%;
+  animation-name: RainbowLoaderAnimation;
+  animation-timing-function: linear;
+  animation-iteration-count: infinite;
+  animation-duration: 2s;
+}
+@keyframes RainbowLoaderAnimation {
+  0% {
+    background-position: 0%;
+  }
+  100% {
+    background-position: 100%;
+  }
+}
