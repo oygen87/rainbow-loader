@@ -25,8 +25,6 @@ Example to change height to be 100% of parent element instead of a fixed 0.2rem,
 }
 ```
 
-
-
-### demo
+### Demo
 
 [https://codepen.io/oygen/pen/WNeOXXN](https://codepen.io/oygen/pen/WNeOXXN)
