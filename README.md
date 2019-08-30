@@ -1,7 +1,7 @@
 # Rainbow Loader 
 
 [![npm version](https://badge.fury.io/js/rainbow-loader.svg)](https://badge.fury.io/js/rainbow-loader)
-
+![GitHub](https://img.shields.io/github/license/oygen87/rainbow-loader)
 ### Install
 
 `npm i rainbow-loader`
