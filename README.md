@@ -1,4 +1,6 @@
-# Rainbow Loader
+# Rainbow Loader 
+
+[![npm version](https://badge.fury.io/js/rainbow-loader.svg)](https://badge.fury.io/js/rainbow-loader)
 
 ### Install
 
